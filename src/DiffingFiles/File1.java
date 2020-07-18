@@ -6,6 +6,7 @@ public class File1 {
         System.out.println("Hello World");
 
         System.out.println("Changes without git add!");
+        //Testing git diff
     }
     //blablabab
     /// Some more changes
